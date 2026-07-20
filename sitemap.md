@@ -1,0 +1,13 @@
+- Authentication
+  - Login
+  - Register
+
+- Main System
+  - Dashboard
+  - Profile
+  - TimeTable
+  - Faculty Locator
+  - Resources
+  - Feedback
+  - About Us
+  - Settings
